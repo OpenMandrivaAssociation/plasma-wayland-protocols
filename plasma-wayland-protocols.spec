@@ -3,9 +3,9 @@
 
 Summary: 	KDE Library for integration with the Wayland display server
 Name: 		plasma-wayland-protocols
-Version:	1.1.1
+Version:	1.2.0
 Release: 	1
-Source0: 	http://download.kde.org/%{stable}/plasma-wayland-protocols/%{plasmaver}/%{name}-%{version}.tar.xz
+Source0: 	http://download.kde.org/%{stable}/plasma-wayland-protocols/%{name}-%{version}.tar.xz
 Url: 		http://kde.org/
 License: 	GPL
 Group: 		System/Libraries
