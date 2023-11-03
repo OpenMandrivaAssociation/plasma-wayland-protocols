@@ -1,6 +1,6 @@
 %define plasmaver %(echo %{version} |cut -d. -f1-3)
 %define stable %([ "`echo 0%{plasmaver} |cut -d. -f3`" -ge 80 ] && echo -n un; echo -n stable)
-%define git 20231023
+%define git 20231103
 
 Summary: 	KDE Library for integration with the Wayland display server
 Name: 		plasma-wayland-protocols
