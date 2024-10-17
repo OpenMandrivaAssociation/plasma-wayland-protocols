@@ -12,7 +12,7 @@ Source0:	https://invent.kde.org/libraries/plasma-wayland-protocols/-/archive/mas
 %else
 Source0: 	http://download.kde.org/%{stable}/plasma-wayland-protocols/%{name}-%{version}.tar.xz
 %endif
-Url: 		http://kde.org/
+Url: 		https://kde.org/
 License: 	GPL
 Group: 		System/Libraries
 BuildSystem:	cmake
