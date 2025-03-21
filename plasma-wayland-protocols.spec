@@ -17,6 +17,7 @@ License: 	GPL
 Group: 		System/Libraries
 BuildSystem:	cmake
 BuildRequires:	cmake(ECM)
+BuildRequires:	pkgconfig(wayland-scanner)
 BuildArch:	noarch
 
 %description
