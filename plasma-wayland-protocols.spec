@@ -16,6 +16,7 @@ Url: 		https://kde.org/
 License: 	GPL
 Group: 		System/Libraries
 BuildSystem:	cmake
+BuildOption:	-DBUILD_WITH_QT6:BOOL=ON
 BuildRequires:	cmake(ECM)
 BuildRequires:	pkgconfig(wayland-scanner)
 BuildArch:	noarch
